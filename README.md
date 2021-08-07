@@ -1,1 +1,1 @@
-# data-dictonary
+# data-dictionary
